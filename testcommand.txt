@@ -15,7 +15,7 @@ RemoveUnicornFromBasket / GetUnicornsBasket
   "uuid": "4b3fc86b-81d0-4614-920e-8184063acf2d"
 }
 
-UnicornBasket 
+UnicornBasket GetSchema
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "title": "UnicornBasket",
